@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WilsonDeLaCruz
 - 👀 I’m interested in Front Developing
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning REACT
 - 💞️ I’m looking to collaborate on solutions by software
 - 📫 How to reach me wiljod21@gmail.com
 
